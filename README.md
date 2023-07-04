@@ -1,4 +1,4 @@
-# Homeworks-IT-Bootcamp
+# Homework assignments-IT-Bootcamp
 This repository contains the homework assignments and assessments completed during the course.
 Including:
 
